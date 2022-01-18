@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @choneill
-- 👀 I’m interested in data analyitics
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
